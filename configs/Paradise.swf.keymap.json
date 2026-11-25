@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "bindings": {
+    "A": "Left click",
+    "B": "Right click",
+    "ZR": "Left click",
+    "ZL": "Right click",
+    "StickLUp": "",
+    "StickLDown": "",
+    "StickLLeft": "",
+    "StickLRight": "",
+    "StickRUp": "Up",
+    "StickRDown": "Down",
+    "StickRLeft": "Left",
+    "StickRRight": "Right"
+  },
+  "source": "user",
+  "show_cursor": true
+}
