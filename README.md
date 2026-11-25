@@ -7,7 +7,7 @@ The three ports have been reported working on a modded Switch, including gamepla
 ## Installation
 
 1. You need a Nintendo Switch capable of running homebrew, a microSD card, and a way to copy files to it.
-2. Download the ZIP for each game you want from the [latest release](../../releases/latest).
+2. Download the ZIP for each game you want from the [latest release](https://github.com/OmrKara/rusty-lake-nintendo-switch-bundle/releases/latest).
 3. Extract each ZIP to the **root of your Switch microSD card**. Keep both the `switch` and `flashnx` folders and merge them with any existing folders. For example, Hotel's NRO should be at `sd:/switch/RustyLakeHotel/RustyLakeHotel.nro` and its controller configuration at `sd:/flashnx/RustyLakeHotel.swf.keymap.json`.
 4. Open the Homebrew Menu and launch the game. The NRO is standalone: no separate FlashNX installation is needed. An optional home-screen forwarder can target the NRO path above (adjust the game name for Roots or Paradise).
 5. Keep backups of your saves, especially before replacing an existing installation.
